@@ -312,7 +312,9 @@ body{
 
 }
 
-.about{}
+.about{
+    padding-top: 100rem;
+}
 
 .about .h2{
     margin: 0 0 3rem;
